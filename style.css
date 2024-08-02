@@ -1,0 +1,19 @@
+body {
+    color:blue;
+    justify-content: space-around;
+}
+
+.gradient {
+ background:linear-gradient(#780000,#c70000);
+}
+
+.topo {
+display: flex;
+justify-content: space-around;
+}
+
+.rodape {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
